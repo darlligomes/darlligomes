@@ -6,7 +6,7 @@
 
 
 # 💫 Sobre mim:
- - 🌱 Atualmente, ando estudando sobre **Javascript, React.** 
+ - 🌱 Atualmente, estudo sobre **Javascript, React.** 
 - Gosto bastante de estudar sobre design de site, sobre cores!
 - Conexão humana também é bem vinda.
                        
