@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋, Eu sou Darllington Gomes.</h1>
+<h1 align="center">Olá! 👋 Eu sou Darllington Gomes.</h1>
 <h3>👨‍💻 Sou iniciante em Desenvolvimento Web (HTML, Css, Javascript)</h3>
 <h3>🖱️ Atualmente, curso Análise e Desenvolvimento de Sistemas.</h3>
                        
