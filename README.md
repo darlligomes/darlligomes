@@ -5,6 +5,7 @@
 
   <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlligomes&layout=compact&langs_count=7&theme=dark" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlliigomes)](https://github.com/anuraghazra/github-readme-stats)
   </div>
  
 # 💫 Sobre mim
