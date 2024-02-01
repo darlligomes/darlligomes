@@ -4,7 +4,7 @@
 
 
   <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlligomes&layout=compact&langs_count=7&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=7&theme=dark" />
   </div>
  
 # 💫 Sobre mim
