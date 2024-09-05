@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Eu sou Darllington Gomes.</h1>
-<h3>👨‍💻 Sou iniciante em Desenvolvimento Web (HTML, Css, Javascript)</h3>
+<h3>👨‍💻 Sou iniciante em Desenvolvimento. </h3>
 <h3>🖱️ Atualmente, curso Sistemas de Informação. </h3>
 
 
@@ -9,8 +9,7 @@
   </div>
  
 # 💫 Sobre mim
- - 🌱 Atualmente, estudo sobre **Javascript, React.** 
-- Gosto bastante de estudar sobre design de site, sobre cores!
+ - 🌱 Atualmente, estudo sobre MySql, Python e C++.
 - Conexão humana também é bem vinda.
                        
 # 🌐 Redes Sociais 
