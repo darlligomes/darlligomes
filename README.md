@@ -4,8 +4,8 @@
 
 
   <div align="center">
-  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlligomes)](https://github.com/anuraghazra/github-readme-stats)
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlligomes&langs_count=6&layout=pie)](https://github.com/darlligomes/github-readme-stats)
   </div>
  
 # 💫 Sobre mim
